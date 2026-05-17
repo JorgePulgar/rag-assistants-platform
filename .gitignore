@@ -56,3 +56,4 @@ backend/tests/test_documents/
 # Transient screenshots and Claude Code local settings
 image.png
 docs/.claude/
+.claude/
